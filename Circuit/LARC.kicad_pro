@@ -429,7 +429,7 @@
         "uuid": "f334c589-33a2-4d2a-8aa9-a0ebc035fcb9"
       }
     ],
-    "used_designators": "M1-2,U1-4,BT1-2,#PWR1-18,XL1,SW1-4",
+    "used_designators": "M1-2,U1-5,BT1-2,#PWR1-27,XL1-2,SW1-4,C1-2,Component_name1,1S\\-PCM1",
     "variants": []
   },
   "sheets": [
